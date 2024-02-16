@@ -73,11 +73,11 @@ if __name__ == '__main__':
 Draw your table on paper and annotate its TSG using our tool. After that, click the "Merging Set" button, this tool will compute the merging set of your table!
 
 #### Download Links:
-**Version 2 (Recommended)**
+<!--**Version 2 (Recommended)**-->
 https://doi.org/10.6084/m9.figshare.24633588.v3
-
+<!--
 **Version 1 (Deprecated)**
-[Google Drive](https://drive.google.com/file/d/1-NRQYTQiAaJEibMXyu_ogzInTh4taogB/view?usp=sharing), [百度网盘](https://pan.baidu.com/s/1xrgwRoFnWUdLB8c11fPQBA?pwd=1234)
+[Google Drive](https://drive.google.com/file/d/1-NRQYTQiAaJEibMXyu_ogzInTh4taogB/view?usp=sharing), [百度网盘](https://pan.baidu.com/s/1xrgwRoFnWUdLB8c11fPQBA?pwd=1234)-->
 
 #### The demonstration video (with voice):
 https://github.com/MaxKinny/app_TableStructureGraph2MergingSet/assets/33459391/677769c7-4028-4d09-a9f9-a6b58c303bf3
