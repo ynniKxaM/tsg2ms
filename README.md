@@ -82,6 +82,11 @@ https://doi.org/10.6084/m9.figshare.25231433.v2
 #### The demonstration video (with voice):
 https://github.com/MaxKinny/app_TableStructureGraph2MergingSet/assets/33459391/677769c7-4028-4d09-a9f9-a6b58c303bf3
 
+#### CmpTab dataset
+![image](https://github.com/ynniKxaM/tsg2ms/assets/160107350/18bff8aa-e3ba-4c6d-b895-9f1c56db0148)
+
+To satisfy the anonymity policy, we will release the downloading after this paper is published.
+
 # Report Bugs
 If you have tables with inconsistent merging sets from the tool, there may be implementation bugs in our API program. Please raise an issue and upload images and JSON data for your examples. Thanks a lot!
 
